@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://images.pexels.com/photos/2099691/pexels-photo-2099691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://images.pexels.com/photos/2872755/pexels-photo-2872755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 5,
+    "name": "Shoe",
+    "price": 70,
+    "imgUrl": "https://images.pexels.com/photos/19090/pexels-photo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Watch",
+    "price": 180,
+    "imgUrl": "https://images.pexels.com/photos/157627/watch-fashion-accessories-clothes-157627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
